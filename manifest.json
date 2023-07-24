@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Swft cross chain",
+  "name_for_model": "Swft",
+  "description_for_human": "Querying cross chain info and swap coins.",
+  "description_for_model": "Querying cross chain info and swap coins.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://localhost:5003/openapi.yaml",
+    "is_user_authenticated": false
+  },
+  "logo_url": "https://localhost:5003/logo.png",
+  "contact_email": "service@swftc.info",
+  "legal_info_url": "https://localhost:5003/legal"
+}
